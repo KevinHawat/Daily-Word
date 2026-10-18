@@ -1,0 +1,1 @@
+{"name": "The Daily Word \u2014 Bible Reading", "short_name": "Daily Word", "description": "A 365-day New Jerusalem Bible reading companion", "start_url": "./index.html", "display": "standalone", "background_color": "#101c2a", "theme_color": "#101c2a", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
